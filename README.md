@@ -2,7 +2,7 @@
 
 This repository hosts the public legal documents for **Cookie Emporium**, served via GitHub Pages.
 
-It's kept as a small, separate, public repository so that the privacy policy and terms of service URLs stay live and accessible — even though the main [Cookie Emporium](https://github.com/KRYMauL/Cookie-Emporium) source code repository is private.
+It's kept as a small, separate, public repository so that the privacy policy and terms of service URLs stay live and accessible — even though the main Cookie Emporium source code repository is private.
 
 ## Live pages
 
