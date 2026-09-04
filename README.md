@@ -6,9 +6,9 @@ It's kept as a small, separate, public repository so that the privacy policy and
 
 ## Live pages
 
-- **Privacy Policy:** [krymaul.github.io/Cookie-Emporium-legal/privacy-policy.html](https://krymaul.github.io/Cookie-Emporium-legal/privacy-policy.html)
-- **Terms & Conditions:** [krymaul.github.io/Cookie-Emporium-legal/terms-and-conditions.html](https://krymaul.github.io/Cookie-Emporium-legal/terms-and-conditions.html)
-- **Authorised Advertisers:** [krymaul.github.io/app-ads.txt](https://krymaul.github.io/app-ads.txt)
+- **Privacy Policy:** [danielshangdevelopment.github.io/Cookie-Emporium-legal/privacy-policy.html](https://krymaul.github.io/Cookie-Emporium-legal/privacy-policy.html)
+- **Terms & Conditions:** [danielshangdevelopment.github.io/Cookie-Emporium-legal/terms-and-conditions.html](https://krymaul.github.io/Cookie-Emporium-legal/terms-and-conditions.html)
+- **Authorised Advertisers:** [danielshangdevelopment.github.io/app-ads.txt](https://danielshangdevelopment.github.io/app-ads.txt)
 
 ## Why this repo exists
 
