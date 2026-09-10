@@ -1,6 +1,6 @@
 # Cookie Emporium — Legal Documents
 
-This repository hosts the public legal documents for **Cookie Emporium**, served via GitHub Pages.
+This repository hosts the public legal documents for [Cookie Emporium](https://play.google.com/store/apps/details?id=com.cookieemporium.game&pli=1) served via GitHub Pages.
 
 It's kept as a small, separate, public repository so that the privacy policy and terms of service URLs stay live and accessible — even though the main Cookie Emporium source code repository is private.
 
